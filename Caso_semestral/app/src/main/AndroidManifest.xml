@@ -13,6 +13,10 @@
         android:theme="@style/Theme.Caso_semestral">
 
         <activity android:name=".EstudiarActivity" />
+        <activity android:name=".RegistroActivity" />
+        <activity android:name=".InicioActivity" />
+        <activity android:name=".AsignaturasActivity" />
+
         <activity
 
             android:name=".MainActivity"
